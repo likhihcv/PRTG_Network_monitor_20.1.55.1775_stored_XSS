@@ -1,4 +1,4 @@
-# PRTG Network Monitoor v20.1.55 to 21.2.68.1492 - stored XSS
+# PRTG Network Monitor v20.1.55 to 21.2.68.1492 - stored XSS
 Stored XSS (Cross Site Scripting) on PRTG Network Monitor version 20.1.55 to 21.2.68.1492
 
 Exploit Title: Stored XSS (Cross Site Scripting)
